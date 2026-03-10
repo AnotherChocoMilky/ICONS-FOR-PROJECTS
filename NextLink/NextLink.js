@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          NextLink - The Ultimate Bypasser
 // @namespace     nextlink.bypass
-// @version       5.0.0
+// @version       5.0.1
 // @author        NextLink Team
 // @description   The future of link bypassing. 2026 high-speed decryption technology. Bypasses Loot-Links, Linkvertise, and 100+ more in just 6 seconds.
 // @copyright     2026 NextLink
